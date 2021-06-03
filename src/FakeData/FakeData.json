@@ -1,0 +1,204 @@
+[
+  {
+    "id": "1",
+    "title": "Accent Chair",
+    "img": "https://i.ibb.co/fFTSFxZ/chair1.jpg" ,
+    "price":244,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "2",
+    "title": "Yamanami Chair",
+    "img": "https://i.ibb.co/SV9gyXV/chair2.jpg",
+    "price":244,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "3",
+    "title": "Office Chair",
+    "img": "https://i.ibb.co/vk9QDJy/chair3-2.jpg",
+    "price":204,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "4",
+    "title": "Cabinet",
+    "img": "https://i.ibb.co/HrD3DBM/cabinet2.jpg",
+    "price":1644,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "5",
+    "title": "Cabinet",
+    "img": "https://i.ibb.co/18s2hmr/cabinet3.jpg",
+    "price":744,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "6",
+    "title": "Derry Sofa",
+    "img": "https://i.ibb.co/v4qpJ1D/sofa3.jpg",
+    "price":344,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "7",
+    "title": "Accent Sofa",
+    "img": "https://i.ibb.co/P6h8bLv/sofa4.jpg",
+    "price":2044,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "8",
+    "title": "Fabric Sofa Set",
+    "img": "https://i.ibb.co/CBc7VhL/sofa7.jpg",
+    "price":544,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "9",
+    "title": "Lounge Sofa",
+    "img": "https://i.ibb.co/jzQp3NG/sofa8.jpg",
+    "price":744,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "10",
+    "title": "Derry Sofa",
+    "img": "https://i.ibb.co/pWbbQ1p/sofa9.jpg",
+    "price":444,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "11",
+    "title": "Modern Sofa",
+    "img": "https://i.ibb.co/cDzz86p/table-2.jpg",
+    "price":264,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "12",
+    "title": "Horrison Table",
+    "img": "https://i.ibb.co/3yYzm7q/table.jpg",
+    "price":650,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "13",
+    "title": "Lounge Chair",
+    "img": "https://i.ibb.co/xKTkV7B/chair3.jpg" ,
+    "price":244,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "14",
+    "title": "Yamanami Chair",
+    "img": "https://i.ibb.co/Ny4Ld36/chair4.jpg" ,
+    "price":244,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "15",
+    "title": "Office Chair",
+    "img": "https://i.ibb.co/bH97cCt/chair5.jpg",
+    "price":244,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "16",
+    "title": "Lounge Chair",
+    "img": "https://i.ibb.co/d42RvLg/chair8.jpg",
+    "price":244,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "17",
+    "title": "Ottomon Chair",
+    "img": "https://i.ibb.co/XzpmP6M/chair9.jpg",
+    "price":244,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "18",
+    "title": "Lounge Chair",
+    "img": "https://i.ibb.co/5W1JMdX/chair10.jpg",
+    "price":244,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "19",
+    "title": "Office Chair",
+    "img": "https://i.ibb.co/7KsgyZb/light.jpg",
+    "price":314,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  },
+  {
+    "id": "20",
+    "title": "Folding Dining Table",
+    "img": "https://i.ibb.co/8Xb5rYh/mindspace-studio-z-O-ZJgf-CCEM-unsplash.jpg",
+    "price":689,
+    "Brand": "Apple",
+    "Product Code": "Product 16",
+    "Reward Points": 600,
+    "Availability": "In Stock"
+  }
+  
+ 
+]

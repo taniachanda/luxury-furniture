@@ -1,0 +1,28 @@
+Body{
+    font-family: 'Prata', serif;
+}
+.top-navbar {
+    color: white;
+    font-family: 'Prata', serif;
+}
+.fixed-top {
+    background-color: #cc7d10b8;
+    /* position: sticky; */
+    top: 0;
+    color: white;
+    text-decoration: none;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+/* .nav-active {
+    border-bottom: 5px solid #b19694;
+    color: orange;
+} */
+.custom-nav-item {
+    color: #fff;
+    border-bottom: 5px solid transparent;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.header-container{
+    background-color: rgb(226, 222, 202);
+    align-items: center;
+    justify-content: center;
+    font-family: 'Prata', serif;
+    padding-bottom: 100px;
+    padding-top: 200px;
+    margin: auto;
+    text-decoration: none;
+   }
+   
+   .h-card{
+       border-radius: 40px;
+   }

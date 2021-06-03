@@ -1,0 +1,14 @@
+.detail-container{
+    background-color: #e9ecef;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Prata', serif;
+    padding-bottom: 100px;
+    padding-top: 200px;
+    margin: auto;
+   }
+   .d-img{   
+     height: 460px;
+     width: 461px;
+    
+   }
