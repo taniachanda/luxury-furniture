@@ -16,7 +16,7 @@ const NavigationBar = () => {
   return (
     <div>
       <Navbar className="navbar top-navbar fixed-top" collapseOnSelect expand="lg" >
-        <Navbar className="ml-5" style={{ color: 'white' }}>Luxury <br /> Furniture</Navbar>
+        <Navbar className="ml-5 H-name" style={{ color: 'white' }}>Luxury <br /> Furniture</Navbar>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto">

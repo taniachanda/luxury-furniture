@@ -11,6 +11,9 @@ const Product = () => {
 
     return (
         <div className="container-fluid header-container">
+            <div className="text-center mb-5" >
+                <h1 style={{fontSize:'50px'}} > <span style={{color:'orange'}}>Items</span>  Available</h1>
+            </div>
             <div className="row d-flex justify-content-between align-items-center">
                 {
                     state.map(product => <ProductList key={product.id} product={product}></ProductList>)

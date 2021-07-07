@@ -7,8 +7,8 @@ import { Link } from 'react-router-dom';
 
 const ProductList = ({ product }) => {
     return (
-        <div className="col-md-3 mb-5 mt-10 ">
-            <Card class="h-card">
+        <div className="col-md-3  mt-10 shadow-sm p-3 mb-5 bg-body rounded ">
+            <Card class="h-card ">
                 <Link to="details" style={{textDecorations:"none", color:"inherit"}}>
                     <Card.Img variant="top" src={product.img} />
                     <Card.Body className="text-center">

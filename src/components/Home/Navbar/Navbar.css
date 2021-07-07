@@ -7,7 +7,7 @@ Body{
 }
 .fixed-top {
     background-color: #cc7d10b8;
-    /* position: sticky; */
+    position: sticky;
     top: 0;
     color: white;
     text-decoration: none;

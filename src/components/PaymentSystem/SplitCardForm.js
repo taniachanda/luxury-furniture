@@ -68,7 +68,7 @@ const SplitCardForm = ({ handlePayment }) => {
     <div className="container-fluid">
         <NavigationBar></NavigationBar>
         <div className="container-fluid Payment-container text-center">
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className="p-form">
         <label>
           Card number
         <CardNumberElement
